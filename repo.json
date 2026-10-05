@@ -1,0 +1,9 @@
+{
+  "name": "Nguồn sạch (gộp) - Desktop",
+  "description": "Các nguồn CloudStream không khoá chữ ký, chạy được trên bản desktop",
+  "manifestVersion": 1,
+  "iconUrl": null,
+  "pluginLists": [
+    "./plugins.json"
+  ]
+}
