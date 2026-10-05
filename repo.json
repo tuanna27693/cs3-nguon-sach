@@ -1,9 +1,9 @@
 {
-  "name": "Nguồn sạch (gộp) - Desktop",
+  "name": "Nguồn sạch (gộp)",
   "description": "Các nguồn CloudStream không khoá chữ ký, chạy được trên bản desktop",
   "manifestVersion": 1,
   "iconUrl": null,
   "pluginLists": [
-    "./plugins.json"
+    "https://raw.githubusercontent.com/tuanna27693/cs3-nguon-sach/main/plugins.json"
   ]
 }
